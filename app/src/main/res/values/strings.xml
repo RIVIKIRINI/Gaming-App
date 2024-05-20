@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">King Racer</string>
+    <string name="HS">High Score : 0</string>
+    <string name="Sc">Score : 0</string>
+</resources>
