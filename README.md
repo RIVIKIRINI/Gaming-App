@@ -33,3 +33,8 @@ This Android game, titled "GameJ", is a space adventure game where players contr
 * Control the rocket by tapping on the left or right side of the screen to switch lanes.
 * Avoid colliding with other planets that appear on the screen.
 * The game ends upon collision, displaying the score and updating the high score if beaten.
+
+
+Uploading WhatsApp Video 2024-05-21 at 1.25.17 AM.mp4…
+
+
