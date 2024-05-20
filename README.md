@@ -4,10 +4,10 @@ This Android game, titled "GameJ", is a space adventure game where players contr
 ## Key Features:
 
 ### 1. Gameplay Mechanics:
-Rocket Movement: Players can move the rocket left or right by tapping on the respective side of the screen.
-Obstacle Planets: Planets appear randomly and move down the screen. The player must avoid colliding with these planets.
-Speed and Scoring: The game speed increases as the player's score goes up. The player's score increments each time an obstacle planet is successfully avoided.
-Game Over Condition: The game ends if the rocket collides with a planet, triggering the closeGame method which displays the final score.
+* Rocket Movement: Players can move the rocket left or right by tapping on the respective side of the screen.
+* Obstacle Planets: Planets appear randomly and move down the screen. The player must avoid colliding with these planets.
+* Speed and Scoring: The game speed increases as the player's score goes up. The player's score increments each time an obstacle planet is successfully avoided.
+* Game Over Condition: The game ends if the rocket collides with a planet, triggering the closeGame method which displays the final score.
 
 ### 2. High Score Management:
 The game tracks and saves the highest score achieved using SharedPreferences.
