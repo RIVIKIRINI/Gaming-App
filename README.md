@@ -1,5 +1,5 @@
 # Gaming App
-This Android game, titled "GameJ", is a space adventure game where players control a rocket that moves between three lanes to avoid oncoming planets. The game is built with a custom GameView that handles the game's rendering and user interactions.
+This Android game, titled "King Racer", is a space adventure game where players control a rocket that moves between three lanes to avoid oncoming planets. The game is built with a custom GameView that handles the game's rendering and user interactions.
 
 ## Key Features:
 
